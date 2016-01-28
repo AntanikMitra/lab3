@@ -1,0 +1,19 @@
+{
+  "name": "lesson3_inclass",
+  "version": "1.0.0",
+  "description": "calculator",
+    "scripts": {
+      "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntanikMitra/comp2106_lesson3_lab.git"
+  },
+  "author": "Antanik Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntanikMitra/comp2106_lesson3_lab/issues"
+  },
+  "homepage": "https://github.com/AntanikMitra/comp2106_lesson3_lab#readme"
+}
